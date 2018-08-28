@@ -72,8 +72,9 @@ Git Commit 內文
 ## 贊助 & 共同開發
 如果您覺得作者設計得不錯，有幫助到您解決分散式日誌存放的問題，您可以透過將比特幣打到以下位址支持作者
 
-3HkYa3x3ezyppFXn27jKg2g4BUFDpU7kCk
 ![3HkYa3x3ezyppFXn27jKg2g4BUFDpU7kCk](docs/images/bitcoin.jpeg)
+
+3HkYa3x3ezyppFXn27jKg2g4BUFDpU7kCk
 
 如果您希望加入Core Team(目前只有作者一人)，可以透過EMail通知作者
 
